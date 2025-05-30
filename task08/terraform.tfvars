@@ -6,7 +6,7 @@ acr_task_name             = "suvham-acr1-task1"
 acr_sku                   = "Basic"
 platform_os               = "Linux"
 dockerfile_path           = "Dockerfile"
-docker_build_context_path = "https://github.com/suvp9/task08a#main:application"
+docker_build_context_path = "https://github.com/suvp9/task8a#main:task08/application"
 docker_image_name         = "cmtr-jq46olgq-mod8-app"
 context_access_token      = "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"
 
