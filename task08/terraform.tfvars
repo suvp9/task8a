@@ -1,4 +1,4 @@
-location = "East US"
+location = "southindia"
 
 name_prefix = "cmtr-jq46olgq-mod8"
 
