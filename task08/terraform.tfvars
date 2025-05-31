@@ -1,14 +1,13 @@
 location = "southindia"
 
-name_prefix = "cmtr-jq46olgq-mod8"
+name_prefix = ""
 
 acr_task_name             = "suvham-acr1-task1"
 acr_sku                   = "Basic"
 platform_os               = "Linux"
 dockerfile_path           = "Dockerfile"
 docker_build_context_path = "https://github.com/suvp9/task8a#main:task08/application"
-docker_image_name         = "cmtr-jq46olgq-mod8-app"
-context_access_token      = "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"
+docker_image_name         = ""
 
 aci_os_type          = "Linux"
 aci_container_name   = "suvham-aci-container1"
